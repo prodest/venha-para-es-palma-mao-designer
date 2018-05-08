@@ -1,11 +1,11 @@
 # Teste para o projeto ES na Palma da mão: Categoria Designer
 
-O estudante de Design deve realizar uma avaliação do aplicativo [ES na Palma da Mão](https://play.google.com/store/apps/details?id=br.gov.es.prodest.espm) seguindo as [10 Heurísticas de Nielsen](http://blog.caelum.com.br/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade/). 
+O estudante de Design deve realizar uma avaliação do aplicativo [ES na Palma da Mão](https://play.google.com/store/apps/details?id=br.gov.es.prodest.espm) seguindo as [Heurísticas de Nielsen](http://blog.caelum.com.br/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade/) ou outra teoria de UX. 
 
 A avaliação deve conter os seguintes pontos:
 
-1) Aspectos em que o aplicativo não se enquadra nas 10 Heurísticas de Nielsen.
-2) Aspectos em que o aplicativo se enquadra nas 10 Heurísticas de Nielsen.
+1) Aspectos em que o aplicativo não se enquadra nas Heurísticas de Nielsen ou outra teoria de UX.
+2) Aspectos em que o aplicativo se enquadra nas Heurísticas de Nielsen ou outra teoria de UX.
 3) Propostas de melhorias na usabilidade do aplicativo.
 
 ## Pontuação
@@ -13,8 +13,8 @@ A avaliação deve conter os seguintes pontos:
 | Critério  | Valor | 
 |---|---|
 | Documentação bem escrita |  10  |
-| Aspectos no qual o App não se enquadra na Heurísticas de Nielsen |  10  |
-| Aspectos no qual o App se enquadra na Heurísticas de Nielsen|  10  |
+| Aspectos no qual o App não se enquadra as Heurísticas de Nielsen |  10  |
+| Aspectos no qual o App se enquadra as Heurísticas de Nielsen|  10  |
 | Propostas de melhoria |  10  |
 | Total| 40|
 
